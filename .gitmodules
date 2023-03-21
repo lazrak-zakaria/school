@@ -4,3 +4,21 @@
 [submodule "get_next_line"]
 	path = get_next_line
 	url = https://github.com/lazrak-zakaria/get_next_line
+[submodule "ft_printf"]
+	path = ft_printf
+	url = https://github.com/lazrak-zakaria/printf_1337
+[submodule "so_long"]
+	path = so_long
+	url = https://github.com/lazrak-zakaria/so_long_1337
+[submodule "Minishell"]
+	path = Minishell
+	url = https://github.com/lazrak-zakaria/Minishell
+[submodule "philosopher"]
+	path = philosopher
+	url = https://github.com/lazrak-zakaria/philooooooo
+[submodule "pipex"]
+	path = pipex
+	url = https://github.com/lazrak-zakaria/pipex
+[submodule "libft"]
+	path = libft
+	url = https://github.com/lazrak-zakaria/libft
