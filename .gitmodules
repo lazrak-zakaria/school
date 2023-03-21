@@ -1,0 +1,3 @@
+[submodule "school"]
+	path = school
+	url = https://github.com/lazrak-zakaria/Push_swap
