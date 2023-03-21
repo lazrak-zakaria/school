@@ -1,3 +1,6 @@
 [submodule "push_swap"]
 	path = push_swap
 	url = https://github.com/lazrak-zakaria/Push_swap
+[submodule "get_next_line"]
+	path = get_next_line
+	url = https://github.com/lazrak-zakaria/get_next_line
